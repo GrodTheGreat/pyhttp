@@ -6,8 +6,11 @@
     "python.testing.pytestEnabled": true,
     "cSpell.words": [
         "autouse",
+        "CLRF",
+        "gmtime",
         "optname",
         "pyhttp",
-        "REUSEADDR"
+        "REUSEADDR",
+        "syscall"
     ]
 }
